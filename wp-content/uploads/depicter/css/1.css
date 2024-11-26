@@ -1,0 +1,91 @@
+
+.depicter-revert .depicter-1-element-11{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-12{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-104{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-98 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-101{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-100 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-102{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-99 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-103{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-82 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-83{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-29 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-84{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-56 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-85{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-62 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-element-86{
+	border-radius:25px;
+}
+.depicter-revert .depicter-1-section-80 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-81 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1-element-11 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-1-element-12 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-section-29 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-section-56 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-section-62 .depicter-section-background{
+	background-color:#000000;
+}
+
+}
